@@ -1,99 +1,141 @@
 <div align="center">
 
-# Ahmed Osrof
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=190&section=header&text=Ahmed%20Osrof&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Ahmed Osrof banner" />
 
-### Data Scientist · AI Engineer · Machine Learning Practitioner
-
-Building practical, responsible AI systems for real-world problems.
+### AI Engineer | Machine Learning | Deep Learning | LLMs | RAG | MLOps | Data Science
 
 <p>
-  <a href="https://github.com/Ahmedosrf"><img src="https://img.shields.io/github/followers/Ahmedosrf?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub followers" /></a>
-  <a href="https://github.com/Ahmedosrf?tab=repositories"><img src="https://img.shields.io/badge/Repositories-20+-181717?style=for-the-badge&logo=github" alt="Repositories" /></a>
-  <a href="https://github.com/Ahmedosrf"><img src="https://komarev.com/ghpvc/?username=Ahmedosrf&style=for-the-badge&color=0e75b6" alt="Profile views" /></a>
+  <a href="https://github.com/Ahmedosrf"><img src="https://img.shields.io/github/followers/Ahmedosrf?label=Followers&style=flat-square&color=0e75b6" alt="GitHub followers" /></a>
+  <a href="https://github.com/Ahmedosrf?tab=repositories"><img src="https://img.shields.io/badge/Repositories-24-181717?style=flat-square&logo=github" alt="Repositories" /></a>
+  <a href="https://www.linkedin.com/in/ahmed-osrf-bb8457356"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 </div>
 
-## About Me
+## 👋 About Me
 
-I am a programmer and aspiring AI Engineer focused on **data science, machine learning, generative AI, and intelligent applications**. My work combines analytical thinking with practical engineering to turn data and ideas into useful, deployable solutions.
+Hi, I’m **Ahmed Osrof**.
 
-I am currently affiliated with the **University College of Applied Sciences in Gaza**, where I continue developing my skills through academic projects, technical training, and applied experimentation.
+🎓 Programmer in Data Science and Artificial Intelligence<br>
+🤖 Aspiring AI Engineer focused on building practical intelligent systems<br>
+📍 Gaza, Palestine<br>
+🏫 University College of Applied Sciences
 
-My interests include multimodal AI, retrieval-augmented generation, predictive modeling, MLOps, computer vision, and technology designed around real community needs.
+I enjoy transforming ideas into AI-powered solutions using data, machine learning, modern LLM technologies, and software engineering. My work is especially motivated by projects that address real needs in local communities and environments with limited connectivity.
 
-## What I Work On
+### My Main Interests
 
-| Area | Focus |
-|---|---|
-| **Data Science** | Data cleaning, exploratory analysis, feature engineering, visualization, and statistical reasoning |
-| **Machine Learning** | Classification, regression, predictive modeling, evaluation, and model interpretation |
-| **Generative AI** | LLM applications, prompt engineering, RAG pipelines, OCR, and multimodal document understanding |
-| **MLOps** | Data ingestion, validation, reproducible workflows, APIs, and production-oriented ML systems |
-| **Applied Technology** | Offline-first tools, Arabic-focused solutions, computer vision, robotics, and social-impact projects |
+- Artificial Intelligence and Machine Learning
+- Deep Learning and Predictive Modeling
+- Natural Language Processing and Generative AI
+- Large Language Models, RAG, and AI Agents
+- Multimodal Document Intelligence and OCR
+- MLOps, Model Evaluation, and Deployment
+- Computer Vision, Robotics, and Social-Impact Technology
 
-## Featured Projects
+---
 
-### [Multimodal OCR RAG Capstone](https://github.com/Ahmedosrf/Multimodal-OCR-RAG-Capstone)
-A multimodal Retrieval-Augmented Generation system for working with text PDFs, scanned documents, images, and tables using OCR, embeddings, vector search, and LLM-based question answering.
+## 🏆 Achievements
 
-### [WalletWise](https://github.com/Ahmedosrf/WalletWise)
-An Arabic-oriented personal and family expense management application designed for Palestinian users, with AI-assisted features and an offline-first approach.
+### 🥇 First Place Hackathon Winner — Team GOAI
 
-### [Gaza Hunger Prediction App](https://github.com/Ahmedosrf/gaza-hunger-prediction-app)
-A Streamlit application for hunger-risk prediction and data analysis, connecting machine learning with a critical humanitarian context.
+**GOAI — Smart Delivery Platform for Gaza** is a digital delivery ecosystem designed to help local businesses and customers access practical delivery services.
 
-### [MLOps Qafza](https://github.com/Ahmedosrf/MLOps-Qafza)
-An MLOps training project covering data ingestion, relational validation, and ML-ready analysis using the Olist dataset.
+The platform concept included bicycle and car delivery, a marketplace connecting stores with customers, and delivery-management capabilities tailored to local needs.
 
-### [Causal Impact Analysis](https://github.com/Ahmedosrf/causal_impact_project)
-An analytical project measuring the effect of price reductions on daily revenue through causal impact analysis.
+---
 
-### [ROS 2 Maze Navigation](https://github.com/Ahmedosrf/ros2-maze-navigation)
-An autonomous mobile-robot navigation system using the Artificial Potential Field method with ROS 2 Jazzy and Gazebo Harmonic.
+## 🌍 Global Hackathon Participation
 
-## Technical Toolkit
+### 🧠 MentalLoad — AI Mental-Fatigue Analysis
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,opencv,fastapi,docker,git,github,linux,flutter,dart,cpp" alt="Technical skills" />
+An AI-powered system designed to measure and reduce mental fatigue associated with intensive AI-tool usage. The system combines user answers, free-text analysis, fatigue estimation, personalized recommendations, and next-day workload prediction.
+
+---
+
+## 🛠️ Tech Stack
+
+### 📊 Data Science & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" alt="Data science tools" />
 </p>
 
-**AI and Data:** Python, Pandas, NumPy, scikit-learn, PyTorch, TensorFlow, OpenCV, Matplotlib, Seaborn, Jupyter, Feature Engineering, Model Evaluation.
+Python · Pandas · NumPy · scikit-learn · Matplotlib · Seaborn · Jupyter · Feature Engineering · Model Evaluation · Predictive Modeling
 
-**Generative AI:** LLMs, RAG, OCR, FAISS, ChromaDB, LangChain, Hugging Face, Prompt Engineering, OpenAI-compatible APIs.
+### 🤖 Generative AI & LLM Applications
 
-**Engineering and Deployment:** FastAPI, Docker, Git, GitHub, Linux, Streamlit, MLOps workflows, data validation, and REST APIs.
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker" alt="AI engineering tools" />
+</p>
 
-**Additional Areas:** Flutter, Dart, C++, Arduino, ROS 2, Gazebo, and embedded systems.
+LLMs · RAG · OCR · Multimodal AI · LangChain · FAISS · ChromaDB · Hugging Face · Prompt Engineering · AI Agents · OpenAI-compatible APIs
 
-## Current Direction
+### ⚙️ MLOps & Engineering
 
-I am deepening my expertise in **production-grade AI systems**, with particular attention to reliable RAG, multimodal document intelligence, model evaluation, MLOps, and applications that remain useful under real-world constraints such as limited connectivity and locally relevant data.
+Git · GitHub · Linux · FastAPI · Docker · Streamlit · REST APIs · Data Validation · Reproducible Workflows · Model Deployment
 
-## GitHub Activity
+### 🔧 Additional Technologies
+
+Flutter · Dart · C++ · Arduino · ROS 2 · Gazebo · Computer Vision
+
+---
+
+## 🚀 AI Learning Roadmap
+
+**Current focus:** reliable RAG systems, multimodal document intelligence, model evaluation, MLOps workflows, and production-oriented AI applications.
+
+**Next focus:** advanced computer vision, scalable deployment, AI agents, and cloud-based machine-learning systems.
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description |
+|---|---|
+| [Multimodal OCR RAG Capstone](https://github.com/Ahmedosrf/Multimodal-OCR-RAG-Capstone) | Multimodal RAG for PDFs, scanned documents, images, tables, OCR, FAISS, and LLM question answering. |
+| [WalletWise](https://github.com/Ahmedosrf/WalletWise) | Arabic-oriented personal and family expense assistant with an offline-first direction. |
+| [Gaza Hunger Prediction App](https://github.com/Ahmedosrf/gaza-hunger-prediction-app) | Streamlit application for hunger-risk prediction and data analysis. |
+| [MLOps Qafza](https://github.com/Ahmedosrf/MLOps-Qafza) | Data ingestion, relational validation, and ML-ready delivery analysis. |
+| [Causal Impact Analysis](https://github.com/Ahmedosrf/causal_impact_project) | Measuring the effect of price reductions on daily revenue. |
+| [ROS 2 Maze Navigation](https://github.com/Ahmedosrf/ros2-maze-navigation) | Autonomous maze navigation using Artificial Potential Fields, ROS 2, and Gazebo. |
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedosrf&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedosrf&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedosrf&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedosrf&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ahmedosrf&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-## Let's Connect
+---
 
-I am open to meaningful collaboration in **AI engineering, machine learning, data science, open-source projects, and technology for social impact**.
+## 🐍 Contribution Snake
 
 <p align="center">
-  <a href="https://github.com/Ahmedosrf">GitHub</a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmedosrf/Ahmedosrf/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmedosrf/Ahmedosrf/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Ahmedosrf/Ahmedosrf/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Ahmedosrf">GitHub</a> ·
   <a href="https://www.linkedin.com/in/ahmed-osrf-bb8457356">LinkedIn</a>
-  ·
-  <!-- Add your professional email here -->
 </p>
 
 <div align="center">
 
-*Turning data, research, and ideas into useful intelligent systems.*
+⭐ Building AI solutions from ideas to reality.
 
 </div>
